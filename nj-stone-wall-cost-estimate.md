@@ -13,9 +13,9 @@ This estimate is based on the annotated site photos (driveway borders, stair lan
 | Decision | Default in this estimate | Alternate covered below |
 | --- | --- | --- |
 | **How much to replace** | **Full timber system** shown in the photos (~110–120 lf) | Main 38 ft × 22 in retaining face only |
-| **Wall material** | **Nicolock segmental paving / wall stone in grey** (contractor-specified) | Other Nicolock colors, grey brick, or natural fieldstone |
+| **Wall material** | **Nicolock Alta Pro Wall** (“Alta Wall Pro 40”), **grey** | Other Nicolock colors, grey brick, or natural fieldstone |
 
-Rationale: Contractor will install **Nicolock** interlocking concrete wall/paver units in **grey**. That is the primary pricing path below. Other colors in the same Nicolock line usually stay in this range unless a premium blend is chosen.
+Rationale: Contractor specified **Nicolock Alta Pro Wall** (often called Alta Wall Pro 40 — **40 sq ft per pallet**). Blocks are **8″ × 18″ × 12″**, hard-split rock face, rear-lip connection, hollow core, ~1″ setback per course. Grey finish (confirm exact blend: e.g. Granite City Blend / Graphite Pearl). That is the primary pricing path below.
 
 ---
 
@@ -65,7 +65,7 @@ South Jersey published face rates were stepped up ~10–20% for North Jersey lab
 
 | Item | Typical installed rate (North Jersey) | Notes |
 | --- | --- | --- |
-| **Nicolock segmental wall / paving stone (grey)** | $40–$75 / sq ft face (~$50–$120 / lf under 2 ft) | **Primary material** — grey interlocking concrete units |
+| **Nicolock Alta Pro Wall (grey), 40 sf/pallet** | $40–$75 / sq ft face (~$50–$120 / lf under 2 ft) | **Primary** — 8″×18″×12″ units; corners/caps sold separately |
 | Grey brick (mortared masonry) | ~$50–$95 / sq ft face | Comparison only |
 | Natural stone (fieldstone) | $60–$120+ / sq ft face | Comparison only |
 | Timber demo + disposal | $12–$25 / lf | Often bundled with new wall |
@@ -80,11 +80,11 @@ South Jersey published face rates were stepped up ~10–20% for North Jersey lab
 
 | Material | Low | Mid | High |
 | --- | --- | --- | --- |
-| **Nicolock grey segmental paving / wall stone** | **$8,500** | **$12,500** | **$17,500** |
-| Grey brick — comparison | $10,500 | $14,500 | $21,000 |
-| Natural stone — comparison | $13,000 | $19,500 | $29,000 |
+| **Nicolock Alta Pro Wall (grey)** | **$8,500** | **$12,500** | **$17,500** |
 
-**Plan around ~$11,000–$15,000** installed in North Jersey for **Nicolock**, including timber demo, debris removal, base, and drainage on retaining runs.
+**Contractor quote (all-in):** **$14,900** — within range; use this as the working budget (includes demo, debris, drainage, caps, stair landing, tax as quoted).
+
+**Plan around the contractor’s $14,900** rather than the published-guide mid of ~$12,500.
 
 ### Main retaining wall only (38 ft × 22 in)
 
@@ -110,7 +110,7 @@ Based on mid total **~$12,500** for ~110–120 lf / ~130–155 sq ft face. Range
 | 1 | Timber demolition & debris haul-off | $1,400 | $2,000 | $2,800 |
 | 2 | Excavation & gravel base | $1,200 | $1,800 | $2,400 |
 | 3 | Drainage (pipe + clean stone behind retaining / raised beds) | $800 | $1,200 | $1,600 |
-| 4 | **Nicolock grey** wall units (materials) | $2,200 | $3,200 | $4,500 |
+| 4 | **Nicolock Alta Pro Wall grey** units (materials) | $2,200 | $3,200 | $4,500 |
 | 5 | Installation labor (set wall + compact) | $2,400 | $3,400 | $4,800 |
 | 6 | Matching grey caps | $500 | $900 | $1,400 |
 | **Total** | **Full system** | **~$8,500** | **~$12,500** | **~$17,500** |
@@ -133,6 +133,10 @@ Based on mid total **~$12,500** for ~110–120 lf / ~130–155 sq ft face. Range
 | Township permit (if required) | usually modest under 4 ft |
 | Shrub relocate / under-deck surfacing | not included |
 
+---
+
+## What moves the number
+
 - **Material:** Nicolock is mid-market segmental block; premium Nicolock textures/colors can push toward the high end of the block range  
 - **Geometry:** L-corners, stair integration, house abutment, and short returns cost more per foot than a straight run  
 - **Site:** protect/move playset; work around AC pad; protect shrub at house-corner mulch bed  
@@ -143,15 +147,15 @@ Based on mid total **~$12,500** for ~110–120 lf / ~130–155 sq ft face. Range
 
 ## Recommendation
 
-1. **Budget ~$11,000–$15,000** (mid **~$12,500**) for full North Jersey replacement in **grey Nicolock**, including the **15′9″** house-corner wall, demo, and debris removal.  
-2. Confirm with the contractor the exact **Nicolock grey** series/name (e.g. solid grey vs blended grey) and matching grey caps, plus whether the quote is lump-sum for all measured runs.  
-3. Get the written quote to line-item:
+1. **Working budget: contractor quote $14,900** all-in for **grey Nicolock Alta Pro Wall**, including demo, debris, drainage, caps, and stair landing.  
+2. Confirm exact **grey blend name** (e.g. Granite City Blend) and matching caps; Alta Pro units are **8″ tall**, so course count should match each run’s height (about 1–3 courses + cap).  
+3. Keep the written quote line-itemed for:
    - timber demo & disposal  
    - excavation / gravel base  
    - drainage behind retaining sections  
-   - **Nicolock grey** wall units + caps  
-   - optional stair landing replacement  
-   - house-corner run (15′9″ × 16½″)  
+   - **Alta Pro Wall** units + corners + caps  
+   - stair landing  
+   - tax  
 
 ---
 
@@ -159,7 +163,7 @@ Based on mid total **~$12,500** for ~110–120 lf / ~130–155 sq ft face. Range
 
 - [ ] Confirm total linear feet after field measure (include house-corner 15′9″ run)  
 - [ ] Confirm wall height at each run (especially the 22 in slope face and 16½ in house-corner wall)  
-- [ ] Spec material: **Nicolock grey** series/name + matching grey caps  
+- [ ] Spec material: **Nicolock Alta Pro Wall**, grey blend name + matching caps (40 sf/pallet system)  
 - [ ] Include perforated drain + clean stone behind any retaining / raised-bed section  
 - [ ] Include caps  
 - [ ] Decide yes/no on cracked landing replacement  
