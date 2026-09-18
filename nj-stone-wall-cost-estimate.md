@@ -1,8 +1,8 @@
 # NJ Stone Wall Replacement Cost Estimate
 
-**Location:** New Jersey  
+**Location:** North Jersey (Bergen / Passaic / Morris / Essex area pricing)  
 **Existing material:** Gray-painted stacked landscape timbers  
-**Date basis:** 2025–2026 NJ hardscape contractor pricing guides (Monmouth / South Jersey / statewide)
+**Date basis:** 2025–2026 NJ hardscape guides, adjusted ~10–20% above South Jersey rates for North Jersey labor
 
 This estimate is based on the annotated site photos (driveway borders, stair landing frame, main slope retaining face, and house-corner driveway wall). Photo-based ranges are for planning only—get 2–3 on-site contractor bids before committing.
 
@@ -46,29 +46,31 @@ Rationale: Heights are mostly under 2 ft with long linear footage and driveway a
 
 This run starts at the house corner trim, holds a raised mulch bed with a large shrub, and faces the asphalt driveway. Easy equipment access from the drive.
 
-**Add-on cost for Section C alone**
+**Add-on cost for Section C alone (North Jersey)**
 
 | Material | Low | Mid | High |
 | --- | --- | --- | --- |
-| Stone-look segmental block | $1,000 | $1,500 | $2,000 |
-| Grey brick (mortared) | $1,200 | $1,800 | $2,500 |
-| Natural stone | $1,500 | $2,200 | $3,000 |
+| Stone-look segmental block | $1,200 | $1,700 | $2,300 |
+| Grey brick (mortared) | $1,400 | $2,100 | $2,900 |
+| Natural stone | $1,700 | $2,500 | $3,500 |
 
 **Full-system totals (A + B + C):** ~**110–120 linear feet**, ~**130–155 sq ft** of wall face.  
 All measured heights are under 2 ft → typically below NJ’s ~4 ft engineered-wall / permit threshold in most towns (confirm with your township).
 
 ---
 
-## NJ unit pricing used
+## North Jersey unit pricing used
 
-| Item | Typical installed rate | Notes |
+South Jersey published face rates were stepped up ~10–20% for North Jersey labor (common Bergen/Passaic/Morris/Essex premium).
+
+| Item | Typical installed rate (North Jersey) | Notes |
 | --- | --- | --- |
-| Segmental stone-look block | $35–$65 / sq ft face (~$40–$100 / lf under 2 ft) | Most common; fastest install |
-| Grey brick (mortared masonry) | ~$45–$80 / sq ft face | Formal uniform look |
-| Natural stone (fieldstone) | $50–$100+ / sq ft face | Premium look; more labor |
-| Timber demo + disposal | $10–$20 / lf | Often bundled with new wall |
-| Drainage (pipe + clean stone) | $15–$25 / lf | Recommended on retaining / raised-bed runs |
-| Cap stones | $10–$20 / lf | Optional finished top |
+| Segmental stone-look block | $40–$75 / sq ft face (~$50–$120 / lf under 2 ft) | Most common; fastest install |
+| Grey brick (mortared masonry) | ~$50–$95 / sq ft face | Formal uniform look |
+| Natural stone (fieldstone) | $60–$120+ / sq ft face | Premium look; more labor |
+| Timber demo + disposal | $12–$25 / lf | Often bundled with new wall |
+| Drainage (pipe + clean stone) | $18–$30 / lf | Recommended on retaining / raised-bed runs |
+| Cap stones | $12–$25 / lf | Optional finished top |
 
 ---
 
@@ -78,18 +80,18 @@ All measured heights are under 2 ft → typically below NJ’s ~4 ft engineered-
 
 | Material | Low | Mid | High |
 | --- | --- | --- | --- |
-| **Stone-look segmental block** | **$7,500** | **$11,000** | **$15,000** |
-| **Grey brick** | **$9,000** | **$12,500** | **$18,000** |
-| **Natural stone** | **$11,500** | **$17,000** | **$25,000** |
+| **Stone-look segmental block** | **$8,500** | **$12,500** | **$17,500** |
+| **Grey brick** | **$10,500** | **$14,500** | **$21,000** |
+| **Natural stone** | **$13,000** | **$19,500** | **$29,000** |
 
-**Typical mid-range budget to plan around:** **~$10,000–$13,000** (block), **~$12,000–$14,000** (grey brick), or **~$17,000+** (natural stone).
+**Typical mid-range budget to plan around (North Jersey):** **~$11,000–$15,000** (block), **~$13,000–$16,000** (grey brick), or **~$19,000+** (natural stone).
 
 ### Main retaining wall only (38 ft × 22 in)
 
 | Material | Approximate range |
 | --- | --- |
-| Stone-look segmental block | **$3,500–$7,000** |
-| Natural stone | **$5,500–$11,000** |
+| Stone-look segmental block | **$4,000–$8,000** |
+| Natural stone | **$6,500–$12,500** |
 
 ### Optional add-on
 
@@ -104,8 +106,8 @@ All measured heights are under 2 ft → typically below NJ’s ~4 ft engineered-
 | Component | Share / amount |
 | --- | --- |
 | New wall install (materials + labor) | ~75–85% of total |
-| Timber demo / haul-off | ~$1,200–$2,400 |
-| Drainage / gravel base on retaining runs | ~$700–$1,400 |
+| Timber demo / haul-off | ~$1,400–$2,800 |
+| Drainage / gravel base on retaining runs | ~$800–$1,600 |
 | Cap stones (if included) | ~$10–$20 per linear foot |
 
 ---
@@ -122,8 +124,8 @@ All measured heights are under 2 ft → typically below NJ’s ~4 ft engineered-
 
 ## Recommendation
 
-1. **Budget ~$10,000–$13,000** for full replacement (including the **15′9″** house-corner wall) in **stone-look segmental block**, or **~$12,000–$14,000** if you want **grey brick**.  
-2. Choose **natural stone** only if appearance is the priority and budget can stretch toward **~$17,000–$25,000**.  
+1. **Budget ~$11,000–$15,000** for full replacement in North Jersey (including the **15′9″** house-corner wall) in **stone-look segmental block**, or **~$13,000–$16,000** if you want **grey brick**.  
+2. Choose **natural stone** only if appearance is the priority and budget can stretch toward **~$19,000–$29,000**.  
 3. Get **2–3 on-site quotes** and ask each to line-item:
    - timber demo & disposal  
    - excavation / gravel base  
