@@ -101,18 +101,37 @@ South Jersey published face rates were stepped up ~10–20% for North Jersey lab
 
 ---
 
-## Cost breakdown inside the full-system totals
+## Cost breakdown list (grey Nicolock, North Jersey, full system)
 
-| Component | Share / amount |
+Based on mid total **~$12,500** for ~110–120 lf / ~130–155 sq ft face. Ranges shown for each line.
+
+| # | Line item | Low | Mid | High |
+| --- | --- | --- | --- | --- |
+| 1 | Timber demolition & debris haul-off | $1,400 | $2,000 | $2,800 |
+| 2 | Excavation & gravel base | $1,200 | $1,800 | $2,400 |
+| 3 | Drainage (pipe + clean stone behind retaining / raised beds) | $800 | $1,200 | $1,600 |
+| 4 | **Nicolock grey** wall units (materials) | $2,200 | $3,200 | $4,500 |
+| 5 | Installation labor (set wall + compact) | $2,400 | $3,400 | $4,800 |
+| 6 | Matching grey caps | $500 | $900 | $1,400 |
+| **Total** | **Full system** | **~$8,500** | **~$12,500** | **~$17,500** |
+
+### By wall section (mid estimate, materials + labor share)
+
+| Section | Size | Mid share |
+| --- | --- | --- |
+| A. Main slope retaining face + L-return | ~38 ft × 22 in + 4′5″ × 9 in | ~$4,500 |
+| B. Driveway / stair borders (AC run, landing frame, front) | ~55 lf, ~7½–11½ in | ~$4,500 |
+| C. House-corner driveway wall | 15′9″ × 16½ in | ~$1,700 |
+| Shared demo / base / drainage / caps | allocated across runs | ~$1,800 |
+| **Total mid** | | **~$12,500** |
+
+### Optional (not in $12,500)
+
+| Item | Add |
 | --- | --- |
-| New wall install (materials + labor) | ~75–85% of total |
-| Timber demo / haul-off | ~$1,400–$2,800 |
-| Drainage / gravel base on retaining runs | ~$800–$1,600 |
-| Cap stones (if included) | ~$10–$20 per linear foot |
-
----
-
-## What moves the number
+| Replace cracked 29 in concrete stair landing | $400–$1,200 |
+| Township permit (if required) | usually modest under 4 ft |
+| Shrub relocate / under-deck surfacing | not included |
 
 - **Material:** Nicolock is mid-market segmental block; premium Nicolock textures/colors can push toward the high end of the block range  
 - **Geometry:** L-corners, stair integration, house abutment, and short returns cost more per foot than a straight run  
