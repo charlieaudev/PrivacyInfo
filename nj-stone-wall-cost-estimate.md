@@ -13,9 +13,9 @@ This estimate is based on the annotated site photos (driveway borders, stair lan
 | Decision | Default in this estimate | Alternate covered below |
 | --- | --- | --- |
 | **How much to replace** | **Full timber system** shown in the photos (~110–120 lf) | Main 38 ft × 22 in retaining face only |
-| **Wall material** | **Stone-look segmental block** or **grey brick** | Natural fieldstone (dry-stack or mortared) |
+| **Wall material** | **Nicolock segmental paving / wall stone** (contractor-specified) | Grey brick or natural fieldstone |
 
-Rationale: Heights are mostly under 2 ft with long linear footage and driveway access. Segmental block is the usual NJ value choice; grey brick matches the look you asked about. Natural stone is included as the premium path.
+Rationale: Contractor will install **Nicolock** interlocking concrete wall/paver units (same class as Belgard / Unilock / Techo-Bloc). That is the primary pricing path below. Grey brick and natural stone remain as comparison only.
 
 ---
 
@@ -46,13 +46,13 @@ Rationale: Heights are mostly under 2 ft with long linear footage and driveway a
 
 This run starts at the house corner trim, holds a raised mulch bed with a large shrub, and faces the asphalt driveway. Easy equipment access from the drive.
 
-**Add-on cost for Section C alone (North Jersey)**
+**Add-on cost for Section C alone (North Jersey, Nicolock)**
 
 | Material | Low | Mid | High |
 | --- | --- | --- | --- |
-| Stone-look segmental block | $1,200 | $1,700 | $2,300 |
-| Grey brick (mortared) | $1,400 | $2,100 | $2,900 |
-| Natural stone | $1,700 | $2,500 | $3,500 |
+| **Nicolock segmental wall stone** | $1,200 | $1,700 | $2,300 |
+| Grey brick (mortared) — comparison | $1,400 | $2,100 | $2,900 |
+| Natural stone — comparison | $1,700 | $2,500 | $3,500 |
 
 **Full-system totals (A + B + C):** ~**110–120 linear feet**, ~**130–155 sq ft** of wall face.  
 All measured heights are under 2 ft → typically below NJ’s ~4 ft engineered-wall / permit threshold in most towns (confirm with your township).
@@ -65,9 +65,9 @@ South Jersey published face rates were stepped up ~10–20% for North Jersey lab
 
 | Item | Typical installed rate (North Jersey) | Notes |
 | --- | --- | --- |
-| Segmental stone-look block | $40–$75 / sq ft face (~$50–$120 / lf under 2 ft) | Most common; fastest install |
-| Grey brick (mortared masonry) | ~$50–$95 / sq ft face | Formal uniform look |
-| Natural stone (fieldstone) | $60–$120+ / sq ft face | Premium look; more labor |
+| **Nicolock segmental wall / paving stone** | $40–$75 / sq ft face (~$50–$120 / lf under 2 ft) | **Primary material** — interlocking concrete units |
+| Grey brick (mortared masonry) | ~$50–$95 / sq ft face | Comparison only |
+| Natural stone (fieldstone) | $60–$120+ / sq ft face | Comparison only |
 | Timber demo + disposal | $12–$25 / lf | Often bundled with new wall |
 | Drainage (pipe + clean stone) | $18–$30 / lf | Recommended on retaining / raised-bed runs |
 | Cap stones | $12–$25 / lf | Optional finished top |
@@ -76,22 +76,22 @@ South Jersey published face rates were stepped up ~10–20% for North Jersey lab
 
 ## Cost summary
 
-### Full timber system (~110–120 lf) — primary scope (includes house-corner wall)
+### Full timber system (~110–120 lf) — Nicolock primary (includes house-corner wall)
 
 | Material | Low | Mid | High |
 | --- | --- | --- | --- |
-| **Stone-look segmental block** | **$8,500** | **$12,500** | **$17,500** |
-| **Grey brick** | **$10,500** | **$14,500** | **$21,000** |
-| **Natural stone** | **$13,000** | **$19,500** | **$29,000** |
+| **Nicolock segmental paving / wall stone** | **$8,500** | **$12,500** | **$17,500** |
+| Grey brick — comparison | $10,500 | $14,500 | $21,000 |
+| Natural stone — comparison | $13,000 | $19,500 | $29,000 |
 
-**Typical mid-range budget to plan around (North Jersey):** **~$11,000–$15,000** (block), **~$13,000–$16,000** (grey brick), or **~$19,000+** (natural stone).
+**Plan around ~$11,000–$15,000** installed in North Jersey for **Nicolock**, including timber demo, debris removal, base, and drainage on retaining runs.
 
 ### Main retaining wall only (38 ft × 22 in)
 
 | Material | Approximate range |
 | --- | --- |
-| Stone-look segmental block | **$4,000–$8,000** |
-| Natural stone | **$6,500–$12,500** |
+| **Nicolock** | **$4,000–$8,000** |
+| Natural stone — comparison | $6,500–$12,500 |
 
 ### Optional add-on
 
@@ -114,7 +114,7 @@ South Jersey published face rates were stepped up ~10–20% for North Jersey lab
 
 ## What moves the number
 
-- **Material:** grey brick and natural stone cost more than segmental block for the same footprint  
+- **Material:** Nicolock is mid-market segmental block; premium Nicolock textures/colors can push toward the high end of the block range  
 - **Geometry:** L-corners, stair integration, house abutment, and short returns cost more per foot than a straight run  
 - **Site:** protect/move playset; work around AC pad; protect shrub at house-corner mulch bed  
 - **Access:** driveway-adjacent access helps keep mobilization down  
@@ -124,14 +124,13 @@ South Jersey published face rates were stepped up ~10–20% for North Jersey lab
 
 ## Recommendation
 
-1. **Budget ~$11,000–$15,000** for full replacement in North Jersey (including the **15′9″** house-corner wall) in **stone-look segmental block**, or **~$13,000–$16,000** if you want **grey brick**.  
-2. Choose **natural stone** only if appearance is the priority and budget can stretch toward **~$19,000–$29,000**.  
-3. Get **2–3 on-site quotes** and ask each to line-item:
+1. **Budget ~$11,000–$15,000** (mid **~$12,500**) for full North Jersey replacement in **Nicolock**, including the **15′9″** house-corner wall, demo, and debris removal.  
+2. Confirm with the contractor which **Nicolock wall series/color** (and whether caps match), plus whether the quote is lump-sum for all measured runs.  
+3. Get the written quote to line-item:
    - timber demo & disposal  
    - excavation / gravel base  
    - drainage behind retaining sections  
-   - wall face (block, grey brick, or stone)  
-   - caps  
+   - **Nicolock** wall units + caps  
    - optional stair landing replacement  
    - house-corner run (15′9″ × 16½″)  
 
@@ -141,7 +140,7 @@ South Jersey published face rates were stepped up ~10–20% for North Jersey lab
 
 - [ ] Confirm total linear feet after field measure (include house-corner 15′9″ run)  
 - [ ] Confirm wall height at each run (especially the 22 in slope face and 16½ in house-corner wall)  
-- [ ] Spec material: brand/style of block, grey brick, **or** stone type  
+- [ ] Spec material: **Nicolock** series/color + matching caps  
 - [ ] Include perforated drain + clean stone behind any retaining / raised-bed section  
 - [ ] Include caps  
 - [ ] Decide yes/no on cracked landing replacement  
