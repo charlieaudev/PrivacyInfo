@@ -4,7 +4,7 @@
 **Existing material:** Gray-painted stacked landscape timbers  
 **Date basis:** 2025–2026 NJ hardscape contractor pricing guides (Monmouth / South Jersey / statewide)
 
-This estimate is based on the annotated site photos (driveway borders, stair landing frame, and main slope retaining face). Photo-based ranges are for planning only—get 2–3 on-site contractor bids before committing.
+This estimate is based on the annotated site photos (driveway borders, stair landing frame, main slope retaining face, and house-corner driveway wall). Photo-based ranges are for planning only—get 2–3 on-site contractor bids before committing.
 
 ---
 
@@ -12,10 +12,10 @@ This estimate is based on the annotated site photos (driveway borders, stair lan
 
 | Decision | Default in this estimate | Alternate covered below |
 | --- | --- | --- |
-| **How much to replace** | **Full timber system** shown in the photos (~95–105 lf) | Main 38 ft × 22 in retaining face only |
-| **Wall material** | **Stone-look segmental block** (Belgard / Unilock / Techo-Bloc class) | Natural fieldstone (dry-stack or mortared) |
+| **How much to replace** | **Full timber system** shown in the photos (~110–120 lf) | Main 38 ft × 22 in retaining face only |
+| **Wall material** | **Stone-look segmental block** or **grey brick** | Natural fieldstone (dry-stack or mortared) |
 
-Rationale: Heights are mostly under 2 ft with long linear footage and driveway access. Segmental block is the usual NJ value choice for freeze–thaw clay soils and clean drainage detailing. Natural stone is included as the premium path.
+Rationale: Heights are mostly under 2 ft with long linear footage and driveway access. Segmental block is the usual NJ value choice; grey brick matches the look you asked about. Natural stone is included as the premium path.
 
 ---
 
@@ -38,7 +38,23 @@ Rationale: Heights are mostly under 2 ft with long linear footage and driveway a
 | Front face | 13 ft 2 in | 7½ in |
 | Landing width (concrete pad) | 29 in | — (optional replace) |
 
-**Full-system totals:** ~**95–105 linear feet**, ~**110–130 sq ft** of wall face.  
+### C. House-corner driveway wall (added)
+
+| Section | Length | Height | Face area |
+| --- | --- | --- | --- |
+| Timber wall at house corner (mulch bed / driveway) | **15 ft 9 in** | **16½ in** | ~**22 sq ft** |
+
+This run starts at the house corner trim, holds a raised mulch bed with a large shrub, and faces the asphalt driveway. Easy equipment access from the drive.
+
+**Add-on cost for Section C alone**
+
+| Material | Low | Mid | High |
+| --- | --- | --- | --- |
+| Stone-look segmental block | $1,000 | $1,500 | $2,000 |
+| Grey brick (mortared) | $1,200 | $1,800 | $2,500 |
+| Natural stone | $1,500 | $2,200 | $3,000 |
+
+**Full-system totals (A + B + C):** ~**110–120 linear feet**, ~**130–155 sq ft** of wall face.  
 All measured heights are under 2 ft → typically below NJ’s ~4 ft engineered-wall / permit threshold in most towns (confirm with your township).
 
 ---
@@ -48,23 +64,25 @@ All measured heights are under 2 ft → typically below NJ’s ~4 ft engineered-
 | Item | Typical installed rate | Notes |
 | --- | --- | --- |
 | Segmental stone-look block | $35–$65 / sq ft face (~$40–$100 / lf under 2 ft) | Most common; fastest install |
+| Grey brick (mortared masonry) | ~$45–$80 / sq ft face | Formal uniform look |
 | Natural stone (fieldstone) | $50–$100+ / sq ft face | Premium look; more labor |
 | Timber demo + disposal | $10–$20 / lf | Often bundled with new wall |
-| Drainage (pipe + clean stone) | $15–$25 / lf | Recommended on the ~38 ft slope wall |
+| Drainage (pipe + clean stone) | $15–$25 / lf | Recommended on retaining / raised-bed runs |
 | Cap stones | $10–$20 / lf | Optional finished top |
 
 ---
 
 ## Cost summary
 
-### Full timber system (~95–105 lf) — primary scope
+### Full timber system (~110–120 lf) — primary scope (includes house-corner wall)
 
 | Material | Low | Mid | High |
 | --- | --- | --- | --- |
-| **Stone-look segmental block** (recommended) | **$6,500** | **$9,500** | **$13,000** |
-| **Natural stone** | **$10,000** | **$15,000** | **$22,000** |
+| **Stone-look segmental block** | **$7,500** | **$11,000** | **$15,000** |
+| **Grey brick** | **$9,000** | **$12,500** | **$18,000** |
+| **Natural stone** | **$11,500** | **$17,000** | **$25,000** |
 
-**Typical mid-range budget to plan around:** **~$8,000–$12,000** (block) or **~$15,000+** (natural stone).
+**Typical mid-range budget to plan around:** **~$10,000–$13,000** (block), **~$12,000–$14,000** (grey brick), or **~$17,000+** (natural stone).
 
 ### Main retaining wall only (38 ft × 22 in)
 
@@ -86,17 +104,17 @@ All measured heights are under 2 ft → typically below NJ’s ~4 ft engineered-
 | Component | Share / amount |
 | --- | --- |
 | New wall install (materials + labor) | ~75–85% of total |
-| Timber demo / haul-off | ~$1,000–$2,000 |
-| Drainage / gravel base on retaining run | ~$600–$1,200 |
+| Timber demo / haul-off | ~$1,200–$2,400 |
+| Drainage / gravel base on retaining runs | ~$700–$1,400 |
 | Cap stones (if included) | ~$10–$20 per linear foot |
 
 ---
 
 ## What moves the number
 
-- **Material:** natural stone is often ~1.5–2× segmental block for the same footprint  
-- **Geometry:** L-corners, stair integration, and short returns cost more per foot than a straight run  
-- **Site:** protect/move playset; work around AC pad  
+- **Material:** grey brick and natural stone cost more than segmental block for the same footprint  
+- **Geometry:** L-corners, stair integration, house abutment, and short returns cost more per foot than a straight run  
+- **Site:** protect/move playset; work around AC pad; protect shrub at house-corner mulch bed  
 - **Access:** driveway-adjacent access helps keep mobilization down  
 - **Township:** some towns still require a permit under 4 ft; fees are usually modest at this height  
 
@@ -104,24 +122,25 @@ All measured heights are under 2 ft → typically below NJ’s ~4 ft engineered-
 
 ## Recommendation
 
-1. **Budget ~$8,000–$12,000** for full replacement in **stone-look segmental block**, including demo and drainage on the slope face.  
-2. Choose **natural stone** only if appearance is the priority and budget can stretch toward **~$15,000–$22,000**.  
+1. **Budget ~$10,000–$13,000** for full replacement (including the **15′9″** house-corner wall) in **stone-look segmental block**, or **~$12,000–$14,000** if you want **grey brick**.  
+2. Choose **natural stone** only if appearance is the priority and budget can stretch toward **~$17,000–$25,000**.  
 3. Get **2–3 on-site quotes** and ask each to line-item:
    - timber demo & disposal  
    - excavation / gravel base  
    - drainage behind retaining sections  
-   - wall face (block or stone)  
+   - wall face (block, grey brick, or stone)  
    - caps  
    - optional stair landing replacement  
+   - house-corner run (15′9″ × 16½″)  
 
 ---
 
 ## Quote checklist for contractors
 
-- [ ] Confirm total linear feet after field measure  
-- [ ] Confirm wall height at each run (especially the 22 in slope face)  
-- [ ] Spec material: brand/style of block **or** stone type (fieldstone, bluestone, etc.)  
-- [ ] Include perforated drain + clean stone behind any retaining section  
+- [ ] Confirm total linear feet after field measure (include house-corner 15′9″ run)  
+- [ ] Confirm wall height at each run (especially the 22 in slope face and 16½ in house-corner wall)  
+- [ ] Spec material: brand/style of block, grey brick, **or** stone type  
+- [ ] Include perforated drain + clean stone behind any retaining / raised-bed section  
 - [ ] Include caps  
 - [ ] Decide yes/no on cracked landing replacement  
 - [ ] Confirm permit need with township  
